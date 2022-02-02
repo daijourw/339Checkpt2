@@ -1,0 +1,6 @@
+.skiplink {
+    color: black;
+}
+.skiplink:hover {
+    color: green;
+}
