@@ -4,7 +4,6 @@ header {
 h1 {
     display: block;
     text-align: center;
-    font-size: large;
     color: #000;
 }
 
@@ -44,9 +43,9 @@ nav a {
     display: block;
     height: 15px;
 }
-nav a:active {
-    color: white;
-    background-color: #2C66C6;
+.current {
+    color: #2C66C6;
+    background-color: white;
 }
 nav a:hover {
     background-color: grey;
