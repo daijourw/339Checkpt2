@@ -1,6 +1,24 @@
+header {
+
+}
+h1 {
+    display:inline-block;
+    text-align: center;
+
+}
+nav {
+    display:inline-block;
+    text-align: center;
+}
+
 .skiplink {
     color: black;
 }
+
 .skiplink:hover {
     color: green;
+}
+
+.gallery {
+
 }
