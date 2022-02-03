@@ -48,7 +48,7 @@ nav a:active {
     color: white;
     background-color: #2C66C6;
 }
-nav li a:hover {
+nav a:hover {
     background-color: grey;
 }
 
